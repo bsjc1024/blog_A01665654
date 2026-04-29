@@ -2,7 +2,7 @@ import './App.css'
 import { Routes, Route, Link } from 'react-router';
 import Home from './pages/home'
 import Blog from './pages/blog'
-import Contact from './pages/Contact'
+import Contact from './pages/contact'
 import Post from './components/Post'
 import Author from './components/Author'
 import NewPost from './components/Newpost'
